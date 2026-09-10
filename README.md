@@ -13,8 +13,7 @@
 
 <!-- Thay phần giữ chỗ bên dưới bằng URL GitHub thô của assets/showcase.webp sau khi tải tệp lên kho lưu trữ. -->
 
-![Trình chọn máy chủ PlayStation Pulse](<img width="1400" height="585" alt="image" src="https://github.com/user-attachments/assets/b72d4998-df5b-43d4-86a6-ff2fdf8cf591" />
-)
+![Trình chọn máy chủ PlayStation Pulse](<img width="1400" height="585" alt="image" src="https://github.com/user-attachments/assets/b72d4998-df5b-43d4-86a6-ff2fdf8cf591" />)
 
 PlayStation Pulse là một bộ sưu tập độc lập gồm các trang máy chủ PS4 tĩnh. Nó cung cấp một điểm truy cập duy nhất để chọn phiên bản phần mềm hệ thống của máy chơi game, sau đó chuyển đến luồng khai thác và GoldHEN tương ứng. Dự án được thiết kế để lưu trữ cục bộ, lưu vào bộ nhớ đệm ngoại tuyến và sử dụng trong trình duyệt PS4.
 
