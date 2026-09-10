@@ -218,16 +218,15 @@ Chờ cho đến khi máy chủ thông báo rằng luồng khai thác/GoldHEN đ
 
 ## Ghi công và nguồn đóng góp
 
-**Tác giả:** [BlackArch](https://t.me/sudoBlackArch)<br>
-**Cộng đồng:** [PlayStation Pulse](https://t.me/PlayStation_Pulse)<br>
-**Máy chủ trò chơi cao cấp:** [NodePlay](https://nodeplay.net/)
+**Tác giả:** [WeAreDragonTeam17](https://github.com/WeAreDragonTeam17)<br>
+**Chủ Sở Hữu:** [LPhamDev97](https://github.com/WeAreDragonTeam17)<br>
+**CHÚNG TÔI LÀ:** [WeAreDragonTeam17](https://github.com/WeAreDragonTeam17)
 
 Kho lưu trữ chứa các thành phần khai thác riêng theo phần mềm hệ thống, các mô-đun hỗ trợ và những thông báo nguồn được bảo lưu từ các dự án gốc. Vui lòng giữ nguyên các thông báo nguồn và thông tin ghi công ban đầu đi kèm những thành phần đó.
 
-> Đối với mọi việc sử dụng các tài liệu hoặc tệp, các liên kết đến tác giả [BlackArch](https://t.me/sudoBlackArch) và nhóm Telegram [PlayStation Pulse](https://t.me/PlayStation_Pulse) phải được giữ lại trên tất cả các trang.
 
 ---
 
 <p align="center">
-  <sub>PlayStation Pulse · Bộ sưu tập máy chủ PS4 ngoại tuyến</sub>
+  <sub>WeAreDragonTeam17 · Bộ sưu tập máy chủ PS4 ngoại tuyến</sub>
 </p>
